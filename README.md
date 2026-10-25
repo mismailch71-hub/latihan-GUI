@@ -83,3 +83,6 @@ Mekanisme untuk menangani dan merespons aksi/kejadian (event) yang dilakukan ole
      - `public void keyPressed(KeyEvent e)`: Mendeteksi penekanan tombol `VK_ENTER` pada field nominal untuk menambahkan pengeluaran secara cepat tanpa menekan tombol "Tambah".
      - `public void keyReleased(KeyEvent e)`: Membaca setiap karakter yang selesai diketikkan pengguna untuk memperbarui teks pada `lblStatus` secara real-time.
      - `public void keyTyped(KeyEvent e)`: Dipasang sesuai kontrak wajib interface.
+
+![alt text](image.png)
+![alt text](image-1.png)
