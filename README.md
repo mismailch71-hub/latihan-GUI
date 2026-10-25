@@ -1,6 +1,6 @@
-- Smart Wallet & Priority Planner (Budget Rp1.000.000)
+Smart Wallet & Priority Planner 
 
--- Smart Wallet & Priority Planner** adalah aplikasi manajemen keuangan bulanan berbasis Desktop Graphical User Interface (GUI) menggunakan teknologi Java Swing. Aplikasi ini dirancang khusus untuk membantu mahasiswa atau pengguna dalam mengelola anggaran bulanan sebesar Rp1.000.000 secara terencana berdasarkan skala prioritas kebutuhan.
+-- Smart Wallet & Priority Planner adalah aplikasi manajemen keuangan bulanan berbasis Desktop Graphical User Interface (GUI) menggunakan teknologi Java Swing. Aplikasi ini dirancang khusus untuk membantu mahasiswa atau pengguna dalam mengelola anggaran bulanan sebesar Rp1.000.000 secara terencana berdasarkan skala prioritas kebutuhan.
 
 - Tinjauan Teori API & GUI Java 
 
